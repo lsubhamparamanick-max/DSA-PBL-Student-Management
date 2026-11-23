@@ -1,6 +1,6 @@
-# Structure-oriented Persistent Data Management (DSA Lab PBL)
+# Structure-oriented Persistent Data Management 
 
-**Experiment 7 | Data Structure & Algorithm Lab (Odd Sem 2026-27)**  
+**Experiment 7 | Data Structure & Algorithm Lab 
 **Student Name:** Subham Paramanick  
 **Student ID:** BWU_BTD_25_68  
 **Class:** B.Tech CSE - DS III A  
